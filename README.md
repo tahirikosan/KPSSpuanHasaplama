@@ -1,0 +1,3 @@
+# KPSSpuanHasaplama
+
+Güle güle kullanın
